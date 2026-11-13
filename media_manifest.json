@@ -1,0 +1,307 @@
+{
+  "updated": "2026-11-13",
+  "manuscript": "latexframework/bare_jrnl_new_sample4.tex",
+  "assets": [
+    {
+      "path": "animations/Case1_Crossing_animation.gif",
+      "source": "matlab/prediccbf_obssbiggg/Case1_Crossing_animation.gif",
+      "bytes": 5339894,
+      "sha256": "5de953d246166198ec148a60da8b8f0fa5a534e413d5b3787cb5a3c457e169ea",
+      "frames": 186,
+      "dimensions": [
+        999,
+        600
+      ],
+      "capture_time_s": 5.530054047256709,
+      "dt_s": 0.005,
+      "data_source": "matlab/prediccbf_obssbiggg/Case1_Crossing_Combined_data.mat",
+      "data_sha256": "a509e4773583a50ed7d9b9b494fe7dc4c04ef3f0e46fbc8029aea1d5dbd57377",
+      "processing": "Resized to fit 1000x600; kept alternate source frames and the final frame; preserved source playback duration",
+      "playback_duration_s": 7.4
+    },
+    {
+      "path": "animations/Case2_Head_on_animation.gif",
+      "source": "matlab/prediccbf_obssbiggg/Case2_Head_on_Combined_data.mat",
+      "bytes": 1198842,
+      "sha256": "eb67030eddf263f8b4e80240b56be73cdf1c2ca703b9979a241b83f2d2a549c9",
+      "frames": 138,
+      "dimensions": [
+        900,
+        540
+      ],
+      "capture_time_s": 6.82071378491819,
+      "dt_s": 0.005,
+      "data_source": "matlab/prediccbf_obssbiggg/Case2_Head_on_Combined_data.mat",
+      "data_sha256": "bddde6cf197eb2467c472b126d02bb2ec7b51f58c2bf9712e9c5916beb89b944",
+      "processing": "Rendered from saved trajectory logs",
+      "playback_duration_s": 6.9
+    },
+    {
+      "path": "animations/Case3_Same_direction_animation.gif",
+      "source": "matlab/prediccbf_obssbiggg/Case3_Same_direction_animation.gif",
+      "bytes": 7807798,
+      "sha256": "c9a4209547ebb4bb580a9f017b5c91d0ff5a9c1d253c5de049d28edc495a6d4e",
+      "frames": 292,
+      "dimensions": [
+        999,
+        600
+      ],
+      "capture_time_s": 8.725673209205269,
+      "dt_s": 0.005,
+      "data_source": "matlab/prediccbf_obssbiggg/Case3_Same_direction_Combined_data.mat",
+      "data_sha256": "995f352c761e6e9ad4fb04e99b949d299e369b887e48a228d512d911c4becf33",
+      "processing": "Resized to fit 1000x600; kept alternate source frames and the final frame; preserved source playback duration",
+      "playback_duration_s": 11.66
+    },
+    {
+      "path": "animations/Case4_Oblique_animation.gif",
+      "source": "matlab/prediccbf_obssbiggg/Case4_Oblique_animation.gif",
+      "bytes": 6171566,
+      "sha256": "124970b301716c8e8f2d90aaa4f88eab182213f144a4a2d155e0c394078c6627",
+      "frames": 212,
+      "dimensions": [
+        999,
+        600
+      ],
+      "capture_time_s": 6.337547226473689,
+      "dt_s": 0.005,
+      "data_source": "matlab/prediccbf_obssbiggg/Case4_Oblique_Combined_data.mat",
+      "data_sha256": "9a10e8b9cb337d0c367d1231e5c8f06e4ccf313eb120a2c930fd3e67700b4fcb",
+      "processing": "Resized to fit 1000x600; kept alternate source frames and the final frame; preserved source playback duration",
+      "playback_duration_s": 8.46
+    },
+    {
+      "path": "animations/allin1_animation.gif",
+      "source": "matlab/cbf+compare/allin1_animation.gif",
+      "bytes": 1888024,
+      "sha256": "030d88930b2c6def904d7613931b36c5feac1472f96ae78ba78c47c47fca6072",
+      "capture_time_s": 14.65744976811111,
+      "dt_s": 0.005,
+      "data_source": "matlab/cbf+compare/allin1_result.mat",
+      "processing": "Copied byte-for-byte",
+      "frames": 185,
+      "dimensions": [
+        600,
+        466
+      ],
+      "playback_duration_s": 14.8
+    },
+    {
+      "path": "figures/Case1_Crossing_obstacle_distance.pdf",
+      "source": "latexframework/figures/Case1_Crossing_obstacle_distance.pdf",
+      "bytes": 34459,
+      "sha256": "d3fc7935546dbc7b867a2b028c8069198425688d29d248ddb36a5e1e8d8f6837",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case1_Crossing_obstacle_distance.png",
+      "source": "latexframework/figures/Case1_Crossing_obstacle_distance.pdf",
+      "bytes": 8268,
+      "sha256": "075992a8195e36ea25a6d9fd50673a1082a3a120db0bb25522dd29f7ffb38c9f",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case1_Crossing_pursuit_range.pdf",
+      "source": "latexframework/figures/Case1_Crossing_pursuit_range.pdf",
+      "bytes": 196222,
+      "sha256": "0fc259187ee58529ada2fbff49449826a0b9e3baf4c372c0a89d73e7c8af9dc0",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case1_Crossing_pursuit_range.png",
+      "source": "latexframework/figures/Case1_Crossing_pursuit_range.pdf",
+      "bytes": 47242,
+      "sha256": "faad25c7610651846528ea4fd37e982a9725fb46e6a5d9fa531d0916e084741a",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case1_Crossing_trajectory.pdf",
+      "source": "latexframework/figures/Case1_Crossing_trajectory.pdf",
+      "bytes": 64364,
+      "sha256": "7985ea77cda6c5338892d9107bd7899ce109e3027bfa7ee0fae71ae83fd066bf",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case1_Crossing_trajectory.png",
+      "source": "latexframework/figures/Case1_Crossing_trajectory.pdf",
+      "bytes": 8384,
+      "sha256": "2145dc53e98b1980bb66dea4524851b6cde905743c59fc946a57ff2ae273a32f",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case2_Head_on_obstacle_distance.pdf",
+      "source": "latexframework/figures/Case2_Head_on_obstacle_distance.pdf",
+      "bytes": 38338,
+      "sha256": "178a398d18669ec37b7994068a6735cbb191f86c0159f22a01f4435864549369",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case2_Head_on_obstacle_distance.png",
+      "source": "latexframework/figures/Case2_Head_on_obstacle_distance.pdf",
+      "bytes": 8373,
+      "sha256": "7230835d5740dd2301cfaa67d14964f85079ceea61f283c4501b553525e08be4",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case2_Head_on_trajectory.pdf",
+      "source": "latexframework/figures/Case2_Head_on_trajectory.pdf",
+      "bytes": 65029,
+      "sha256": "9edc9f105f51df496f18cd031e0c431f343269cb040dc1c73ebae1e492133944",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case2_Head_on_trajectory.png",
+      "source": "latexframework/figures/Case2_Head_on_trajectory.pdf",
+      "bytes": 8590,
+      "sha256": "71b0b69f4be3a0980b2a894a2094a53269d8f8f0097709180ae26b2c7f2bb935",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case3_Same_direction_obstacle_distance.pdf",
+      "source": "latexframework/figures/Case3_Same_direction_obstacle_distance.pdf",
+      "bytes": 45920,
+      "sha256": "ba4a128b5eacd4cb13cde94d820bcc716fa903e655d5626df4de9a68e5eeecde",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case3_Same_direction_obstacle_distance.png",
+      "source": "latexframework/figures/Case3_Same_direction_obstacle_distance.pdf",
+      "bytes": 8720,
+      "sha256": "d1e99c5eb91aa191af7849b977ca4eaa8e5a6b9b7a90b9f67506b38f03b14194",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case3_Same_direction_trajectory.pdf",
+      "source": "latexframework/figures/Case3_Same_direction_trajectory.pdf",
+      "bytes": 77289,
+      "sha256": "c237e647444e29ef8d0b6d27b5776d014b2f6722f0dcb616cde9e146e55a3ae4",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case3_Same_direction_trajectory.png",
+      "source": "latexframework/figures/Case3_Same_direction_trajectory.pdf",
+      "bytes": 8347,
+      "sha256": "faf76a25b078a50e9cdcf3e70f4f21d3f894807d5570dce1f796c86717c6430b",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case4_Oblique_obstacle_distance.pdf",
+      "source": "latexframework/figures/Case4_Oblique_obstacle_distance.pdf",
+      "bytes": 36497,
+      "sha256": "914751894a7e24ddf5a35f7cbc350a5ac327100c1bffdb0173fdd77d96329d2e",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case4_Oblique_obstacle_distance.png",
+      "source": "latexframework/figures/Case4_Oblique_obstacle_distance.pdf",
+      "bytes": 8067,
+      "sha256": "ae4ee44492620c167b538746450f61c7ca24a3b640037eb3899907e52375407a",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/Case4_Oblique_trajectory.pdf",
+      "source": "latexframework/figures/Case4_Oblique_trajectory.pdf",
+      "bytes": 82701,
+      "sha256": "7a3a14a9cc0f5befe15fccae0b5e0ec44859c8e7df26bbbfdf2aee486fc0f911",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/Case4_Oblique_trajectory.png",
+      "source": "latexframework/figures/Case4_Oblique_trajectory.pdf",
+      "bytes": 9425,
+      "sha256": "2a32ae24b02886346a0c9dada10fd6815a9c5932f923fa646e468d0fc78ffb8d",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/HOCBF_initial_constraints.pdf",
+      "source": "latexframework/figures/HOCBF_initial_constraints.pdf",
+      "bytes": 32303,
+      "sha256": "4eeb43e2b8c069d25c75555360211e67dc803dfbc0d70eb0ccfa73122d68fbd1",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/HOCBF_initial_constraints.png",
+      "source": "latexframework/figures/HOCBF_initial_constraints.pdf",
+      "bytes": 39129,
+      "sha256": "c00d2d988e06b170a4457a540ffe50f6582103276915d3aaaaf15538379eac98",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/HOCBF_local_feasibility.pdf",
+      "source": "latexframework/figures/HOCBF_local_feasibility.pdf",
+      "bytes": 20950,
+      "sha256": "254dec5b2812f894c798b034df05075c2a79c75fa33fe3626084b93226299117",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/HOCBF_local_feasibility.png",
+      "source": "latexframework/figures/HOCBF_local_feasibility.pdf",
+      "bytes": 44515,
+      "sha256": "331eb91a63a55874f244e294c840b9f2f27eae3f016cfbc0eb7cfbfc031b9f7d",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/HOCBF_trajectory_comparison.pdf",
+      "source": "latexframework/figures/HOCBF_trajectory_comparison.pdf",
+      "bytes": 152863,
+      "sha256": "ad0b3ebf2d04320d9db9447a04962d59725290f091ae8f88c73cdba22557cf77",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/HOCBF_trajectory_comparison.png",
+      "source": "latexframework/figures/HOCBF_trajectory_comparison.pdf",
+      "bytes": 47300,
+      "sha256": "eca370c4c464aa7f2fca76fc09e83dadd846489d3909b8cb0f36cda5962d08d4",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/allin1_bench_f2.pdf",
+      "source": "latexframework/figures/allin1_bench_f2.pdf",
+      "bytes": 215705,
+      "sha256": "cad6038daac27f2a73284dc23a373a319d3ea96d1c6207ca05bb1b12fd6d8d92",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/allin1_bench_f2.png",
+      "source": "latexframework/figures/allin1_bench_f2.pdf",
+      "bytes": 67924,
+      "sha256": "e74b81f00bfdf62c25eda0980411c0620de1fc379b3335a437697aeca076fafc",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/allin1_proj_geometry.pdf",
+      "source": "latexframework/figures/allin1_proj_geometry.pdf",
+      "bytes": 27668,
+      "sha256": "e14b3470a2f0c9c2c7ae51725c16a250f4dfca908956e36ea67e26d407b7c420",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/allin1_proj_geometry.png",
+      "source": "latexframework/figures/allin1_proj_geometry.pdf",
+      "bytes": 59988,
+      "sha256": "22b92b0e9fb0574a1db229d478c90f53271566ebaff57fe7f2df2bb8a120b4db",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/allin1_trajectory.pdf",
+      "source": "latexframework/figures/allin1_trajectory.pdf",
+      "bytes": 161645,
+      "sha256": "73d9aac48a001bb24f30e0099f4c1208187f5ea762513911bcf6cc3e6290a730",
+      "processing": "Copied byte-for-byte"
+    },
+    {
+      "path": "figures/allin1_trajectory.png",
+      "source": "latexframework/figures/allin1_trajectory.pdf",
+      "bytes": 24656,
+      "sha256": "9151378f72998a9d34a359be854ee16ae4c52a7185810fb5aae40862925bb6f2",
+      "processing": "PDF preview rendered at 300 dpi with Ghostscript"
+    },
+    {
+      "path": "figures/fig1.png",
+      "source": "latexframework/figures/fig1.png",
+      "bytes": 664773,
+      "sha256": "49ff8553df5a4769e7cd38e307b4d1030669635c5760585e8a4c27643b9149c2",
+      "processing": "Copied byte-for-byte"
+    }
+  ]
+}
